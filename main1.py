@@ -1,4 +1,4 @@
-mport requests as req
+import requests as req
 from bs4 import BeautifulSoup
 import json
 import tqdm
